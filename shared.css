@@ -217,6 +217,13 @@ main {
   outline: none;
 }
 
+/* .button[disabled] {
+  cursor: not-allowed;
+  border: #ccc;
+  background: gray;
+  color: #a1a1a1;
+} */
+
 .open {
     display: block !important;
 }
