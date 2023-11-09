@@ -44,3 +44,6 @@ toggleButton.addEventListener("click", function() {
   backdrop.classList.add("open");
 });
 
+function hi() {
+  return "hi";
+}
