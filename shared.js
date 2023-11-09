@@ -47,3 +47,6 @@ toggleButton.addEventListener("click", function() {
 function hi() {
   return "hi";
 }
+
+const arrow = a => a*a;
+// 200+ 0/0 = NaN
