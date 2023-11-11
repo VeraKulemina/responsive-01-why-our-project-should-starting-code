@@ -50,3 +50,4 @@ function hi() {
 
 const arrow = a => a*a;
 // 200+ 0/0 = NaN
+let age =72;
