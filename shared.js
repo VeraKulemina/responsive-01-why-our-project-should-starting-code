@@ -51,3 +51,7 @@ function hi() {
 const arrow = a => a*a;
 // 200+ 0/0 = NaN
 let age =72;
+age = age +1
+age +=1
+age++; //age +1;
+age--; //unery operator;
