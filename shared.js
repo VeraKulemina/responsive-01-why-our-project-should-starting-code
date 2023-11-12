@@ -56,3 +56,4 @@ age +=1
 age++; //age +1;
 age--; //unery operator;
 // escape quote \' (backslash and quote sign)
+// new like operator \n
