@@ -57,3 +57,4 @@ age++; //age +1;
 age--; //unery operator;
 // escape quote \' (backslash and quote sign)
 // new like operator \n
+`i counted ${3+4} sheep`
