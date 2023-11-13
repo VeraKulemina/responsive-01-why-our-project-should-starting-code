@@ -61,3 +61,5 @@ age--; //unery operator;
 
 let name = null;
  name = "Alan";
+ //unefined 
+ "lol"[4]
