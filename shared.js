@@ -65,3 +65,5 @@ let name = null;
  "lol"[4]
 
  Math.object 
+ Math.pow(2,2) 
+ // 4
