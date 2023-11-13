@@ -63,3 +63,5 @@ let name = null;
  name = "Alan";
  //unefined 
  "lol"[4]
+
+ Math.object 
